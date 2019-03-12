@@ -1,6 +1,4 @@
-﻿<p align="center">
-Woocommerce Vandar.io Gateway
-</p>
+﻿## Woocommerce Vandar.io Gateway
 <br>
 Contributors:@vandarpay<br>
 author: Vandar.io<br>
@@ -9,7 +7,7 @@ Requires at least: 4.5<br>
 Tested up to: 5.1<br>
 Stable tag: trunk<br>
 
-پرداخت اینترنتی وجه به وسیله درگاه پرداخت واسطه وندار
+پرداخت اینترنتی وجه به وسیله درگاه پرداخت واسط وندار
 
 ## Description
 
@@ -17,18 +15,14 @@ Stable tag: trunk<br>
 <br>
 
 ## Features
- * پنل تنظیمات ساده
-<br>
- * تنظیم پیام دلخواه در هنگام پرداخت موفقیت آمیز ، انصراف از پرداخت و یا لغو پرداخت
-<br>
+ * پنل تنظیمات ساده<br>
+ * تنظیم پیام دلخواه در هنگام پرداخت موفقیت آمیز ، انصراف از پرداخت و یا لغو پرداخت<br>
  * نمایش خطاهای فرایند پرداخت
  
  ## Installation
 
- 1. پوشه `vandar-io-woocommerce` را در مسیر `/wp-content/plugins/` آپلود کنید
- <br>
- 2. افزونه را از طریق منوی 'افزونه ها' در وردپرس فعال کنید
-  <br>
+ 1. پوشه `vandar-io-woocommerce` را در مسیر `/wp-content/plugins/` آپلود کنید<br>
+ 2. افزونه را از طریق منوی 'افزونه ها' در وردپرس فعال کنید<br>
  3. تنظیمات افزونه را می توانید از طریق قسمت تنظیمات ووکامرس / تسویه حساب انجام دهید
 
 
