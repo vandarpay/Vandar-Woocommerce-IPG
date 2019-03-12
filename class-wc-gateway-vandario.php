@@ -128,9 +128,9 @@ function Load_Vandario_Gateway()
                             'description' => '',
                         ),
                         'merchantcode' => array(
-                            'title' => __('مرچنت کد', 'woocommerce'),
+                            'title' => __('کلید API', 'woocommerce'),
                             'type' => 'text',
-                            'description' => __('مرچنت کد درگاه وندار', 'woocommerce'),
+                            'description' => __(' کلید API درگاه وندار', 'woocommerce'),
                             'default' => '',
                             'desc_tip' => true
                         ),
